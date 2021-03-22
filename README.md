@@ -1,0 +1,2 @@
+# Windows_PowerShell_Lib
+良く使う展示PCのPowerShellの保管庫
